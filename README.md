@@ -1,5 +1,5 @@
 # MODELOS DE SERVIÇOS 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Bongiorno14/SLA_Azure/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Bongiorno14/Modelos_de_Servi-os/blob/main/LICENSE) 
 
 # Sobre o projeto
 
